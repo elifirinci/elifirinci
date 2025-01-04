@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif FIRINCI</h1>
 <h3 align="center">A passionate developer and tech enthusiast. I love working on a variety of projects, particularly in machine learning, web development from Türkiye</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifirinci&label=Profile%20views&color=0e75b6&style=flat" alt="elifirinci" /> </p>
 
 - 🔭 I’m currently working on [machine learning projects](https://github.com/elifirinci/Classification_Freshness_Of_Tomatoes)
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://kaggle.com/eliffirinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eliffirinci" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elif-firinci-4b319421b" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/elifirinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elifirinci" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
