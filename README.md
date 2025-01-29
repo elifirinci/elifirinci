@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **deep learning algorithms**
 
-- 📫 How to reach me **ffelif3439@gmail.com**
+- 📫 How to reach me **elifirincii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
