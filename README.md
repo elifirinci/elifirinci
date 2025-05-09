@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif FIRINCI</h1>
 <h3 align="center">A passionate developer and tech enthusiast. I love working on a variety of projects, particularly in machine learning, web development from Türkiye</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elifirinci&label=Profile%20views&color=0e75b6&style=flat" alt="elifirinci" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elifirinci&label=Profile%20views&color=0e75b6&style=flat" alt="elifirinci" /> </p>
 
 - 🔭 I’m currently working on [machine learning projects](https://github.com/elifirinci/Classification_Freshness_Of_Tomatoes)
 
